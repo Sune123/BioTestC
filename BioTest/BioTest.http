@@ -1,0 +1,6 @@
+@BioTest_HostAddress = http://localhost:5286
+
+GET {{BioTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
